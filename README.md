@@ -9,4 +9,4 @@ Libraries used:
 
 SCREENSHOTS
   
-[Screenshot_onestop.pdf](https://github.com/mdtaha099/OneStopShop/files/13596698/Screenshot_onestop.pdf)
+![Screenshot_onestop_page-0001](https://github.com/mdtaha099/OneStopShop/assets/143349799/9593dfae-a405-4d13-9f26-49a75b175966)
